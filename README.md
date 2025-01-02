@@ -6,3 +6,5 @@
 #### Heading level 4
 
 ##### Heading level 5
+
+<h6>Heading level 6</h6>
